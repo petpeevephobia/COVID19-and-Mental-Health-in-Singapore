@@ -13,7 +13,7 @@ Line graph data: Mental Health Search Terms, by Yunge Hao on Kaggle
 - https://www.kaggle.com/luckybro/mental-health-search-term
 
 Bar graph data: Mental Health and Suicide Rates, by Twinkle Khanna on Kaggle
-https://www.kaggle.com/twinkle0705/mental-health-and-suicide-rates
+- https://www.kaggle.com/twinkle0705/mental-health-and-suicide-rates
 
 # HOW TO RUN IT
 1. Install Voila by running this commad on your terminal (Ubuntu, CMD etc.): pip install voila
