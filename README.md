@@ -5,8 +5,7 @@ Completing this project would be a way for me to research on the mental health s
 
 Furthermore, with this dashboard, I am able to share with others what I know from my research. This can potentially bring up more conversation regarding mental health, which encourages individuals to take action. With my skills, I aim to delve deeper into mental health and contribute to this cause.
 
-tinyurl.com/covid19mentalhealthsg
-(https://hub.gke2.mybinder.org/user/petpeevephobia--th-in-singapore-l4qn13k6/voila/render/main.ipynb?token=5Xxwg4PGR26MgCT_Bt7mcw)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/petpeevephobia/COVID19-and-Mental-Health-in-Singapore/HEAD?urlpath=%2Fvoila%2Frender%2Fmain.ipynb)
 
 # Data Used
 Map graph data: John Hopkins CSSE COVID19 data repository
